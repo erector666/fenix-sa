@@ -7,7 +7,7 @@ export const testimonials: Testimonial[] = [
     role: 'Propriétaire',
     location: 'Ouchy, Lausanne',
     text: {
-      fr: 'FENIX PLUS SA a transformé notre appartement de 1960 en un espace moderne et fonctionnel. L'équipe est professionnelle, à l'écoute et respecte les délais. Je recommande vivement.',
+      fr: 'FENIX PLUS SA transformed our 1960s apartment into a modern, functional space. The team is professional, attentive, and respects deadlines. Highly recommended.',
       en: 'FENIX PLUS SA transformed our 1960s apartment into a modern, functional space. The team is professional, attentive, and respects deadlines. Highly recommended.',
     },
     rating: 5,
@@ -19,7 +19,7 @@ export const testimonials: Testimonial[] = [
     role: 'Entrepreneur',
     location: 'Renens',
     text: {
-      fr: 'Travaux de maçonnerie réalisés avec précision. Qualité des matériaux et finitions impeccables. Respect du budget initial.',
+      fr: 'Masonry work carried out with precision. Quality materials and impeccable finishes. Respected initial budget.',
       en: 'Masonry work carried out with precision. Quality materials and impeccable finishes. Respected initial budget.',
     },
     rating: 5,
@@ -31,7 +31,7 @@ export const testimonials: Testimonial[] = [
     role: 'Propriétaires',
     location: 'Bourdonnette',
     text: {
-      fr: 'Rénovation de façade réussie. Notre maison a retrouvé sa splendeur et son isolation thermique est excellente.',
+      fr: 'Successful facade renovation. Our house regained its splendor and its thermal insulation is excellent.',
       en: 'Successful facade renovation. Our house regained its splendor and its thermal insulation is excellent.',
     },
     rating: 5,
@@ -43,7 +43,7 @@ export const testimonials: Testimonial[] = [
     role: 'Commerçant',
     location: 'Lausanne Centre',
     text: {
-      fr: 'Rénovation de mes bureaux terminée dans les temps. L'équipe a été très flexible avec nos horaires d'ouverture.',
+      fr: 'Office renovation completed on time. The team was very flexible with our opening hours.',
       en: 'Office renovation completed on time. The team was very flexible with our opening hours.',
     },
     rating: 4,
@@ -55,7 +55,7 @@ export const testimonials: Testimonial[] = [
     role: 'Retraitée',
     location: 'Vevey',
     text: {
-      fr: 'Très satisfait de la nouvelle toiture. Projet bien conduit, équipe compétente et sympathique.',
+      fr: 'Very satisfied with the new roof. Well-managed project, competent and friendly team.',
       en: 'Very satisfied with the new roof. Well-managed project, competent and friendly team.',
     },
     rating: 5,
@@ -67,7 +67,7 @@ export const testimonials: Testimonial[] = [
     role: 'Jeune couple',
     location: 'Écublens',
     text: {
-      fr: 'Notre premier appartement a été rénové de A à Z. L'équipe a été très professionnelle et a su nous conseiller.',
+      fr: 'Our first apartment was renovated from A to Z. The team was very professional and knew how to advise us.',
       en: 'Our first apartment was renovated from A to Z. The team was very professional and knew how to advise us.',
     },
     rating: 5,
