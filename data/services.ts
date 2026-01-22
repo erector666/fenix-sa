@@ -8,7 +8,7 @@ export const services: Service[] = [
       en: 'Interior Renovation',
     },
     description: {
-      fr: 'Transformez vos espaces intérieurs avec notre expertise en rénovation complète. Nous modernisons vos pièces tout en respectant l'architecture existante.',
+      fr: "Transformez vos espaces intérieurs avec notre expertise en rénovation complète. Nous modernisons vos pièces tout en respectant l'architecture existante.",
       en: 'Transform your interior spaces with our complete renovation expertise. We modernize your rooms while respecting the existing architecture.',
     },
     features: {
@@ -27,7 +27,7 @@ export const services: Service[] = [
     },
     faqs: [
       {
-        fr: 'Quelle est la durée moyenne d'une rénovation intérieure ?',
+        fr: "Quelle est la durée moyenne d'une rénovation intérieure ?",
         en: 'What is the average duration of an interior renovation?',
       },
       {
@@ -43,7 +43,7 @@ export const services: Service[] = [
       en: 'Exterior Renovation',
     },
     description: {
-      fr: 'Améliorez l'aspect et la valeur de votre propriété avec nos travaux extérieurs. Toiture, façade, terrasse et plus encore.',
+      fr: "Améliorez l'aspect et la valeur de votre propriété avec nos travaux extérieurs. Toiture, façade, terrasse et plus encore.",
       en: 'Enhance the appearance and value of your property with our exterior works. Roofing, facade, terrace and more.',
     },
     features: {
@@ -78,7 +78,7 @@ export const services: Service[] = [
       en: 'Walls and Plaster',
     },
     description: {
-      fr: 'Maîtrise technique dans l'application de plâtre, enduits et finitions de murs. Résultat lisse et durable.',
+      fr: "Maîtrise technique dans l'application de plâtre, enduits et finitions de murs. Résultat lisse et durable.",
       en: 'Technical mastery in plaster application, rendering and wall finishes. Smooth and durable result.',
     },
     features: {
@@ -167,82 +167,432 @@ export const services: Service[] = [
     },
     faqs: [
       {
-        fr: 'Quelle est la meilleure solution pour une salle de bain ?',
+        fr: "Quelle est la meilleure solution pour une salle de bain ?",
         en: 'What is the best solution for a bathroom?',
       },
       {
-        fr: 'Quels entretiens recommandez-vous ?',
-        en: 'What maintenance do you recommend?',
+        fr: 'Quels types de pose proposez-vous ?',
+        en: 'What types of installation do you offer?',
       },
     ],
   },
   {
-    id: 'restoration',
+    id: 'insulation',
     title: {
-      fr: 'Restauration et réparations',
-      en: 'Restoration and Repairs',
+      fr: 'Isolation thermique et phonique',
+      en: 'Thermal and Acoustic Insulation',
     },
     description: {
-      fr: 'Restauration de bâtiments anciens avec respect du patrimoine. Réparations de qualité pour prolonger la vie de votre bien.',
-      en: 'Restoration of old buildings with respect for heritage. Quality repairs to extend the life of your property.',
+      fr: "Améliorez le confort et la performance énergétique de votre bien avec nos solutions d'isolation.",
+      en: 'Improve the comfort and energy performance of your property with our insulation solutions.',
     },
     features: {
       fr: [
-        'Restauration de façades anciennes',
-        'Réparations structurelles',
-        'Conservation du patrimoine',
-        'Diagnostic et prévention',
+        'Isolation des murs',
+        'Isolation de toiture',
+        'Double vitrage',
+        'Isolation phonique',
       ],
       en: [
-        'Restoration of old facades',
-        'Structural repairs',
-        'Heritage conservation',
-        'Diagnosis and prevention',
+        'Wall insulation',
+        'Roof insulation',
+        'Double glazing',
+        'Acoustic insulation',
       ],
     },
     faqs: [
       {
-        fr: 'Travaillez-vous sur des bâtiments classés ?',
-        en: 'Do you work on listed buildings?',
+        fr: "Quelle est l'économie réalisable ?",
+        en: 'What savings can be achieved?',
       },
       {
-        fr: 'Quelles sont vos certifications ?',
-        en: 'What are your certifications?',
+        fr: 'Quels matériaux utilisez-vous ?',
+        en: 'What materials do you use?',
       },
     ],
   },
   {
     id: 'masonry',
     title: {
-      fr: 'Maçonnerie et petits ouvrages',
-      en: 'Masonry and Small Works',
+      fr: 'Maçonnerie',
+      en: 'Masonry',
     },
     description: {
-      fr: 'Travaux de maçonnerie générale et petits ouvrages de construction. Du mur porteur au petit aménagement.',
-      en: 'General masonry works and small construction projects. From load-bearing walls to small fittings.',
+      fr: "Travaux de maçonnerie traditionnelle et moderne. Murs, cloisons, dallage et aménagements extérieurs.",
+      en: 'Traditional and modern masonry work. Walls, partitions, flooring and exterior developments.',
     },
     features: {
       fr: [
         'Murs porteurs et cloisons',
+        'Dallage béton',
         'Mur de soutènement',
-        'Aménagement extérieur',
-        'Petites constructions',
+        'Aménagement de jardin',
       ],
       en: [
         'Load-bearing walls and partitions',
-        'Retaining walls',
-        'Exterior fittings',
-        'Small constructions',
+        'Concrete flooring',
+        'Retaining wall',
+        'Garden development',
       ],
     },
     faqs: [
       {
-        fr: 'Comment obtenez-vous les autorisations ?',
-        en: 'How do you obtain permits?',
+        fr: 'Quelle est la différence entre maçonnerie traditionnelle et moderne ?',
+        en: 'What is the difference between traditional and modern masonry?',
       },
       {
-        fr: 'Quelles sont les délais ?',
-        en: 'What are the timelines?',
+        fr: 'Fournissez-vous les matériaux ?',
+        en: 'Do you provide materials?',
+      },
+    ],
+  },
+  {
+    id: 'woodworking',
+    title: {
+      fr: 'Menuiserie',
+      en: 'Woodworking',
+    },
+    description: {
+      fr: "Fabrication et installation de menuiserie sur mesure. Portes, fenêtres, escaliers et aménagements intérieurs.",
+      en: 'Custom fabrication and installation of woodwork. Doors, windows, stairs and interior developments.',
+    },
+    features: {
+      fr: [
+        'Portes et fenêtres',
+        'Escaliers sur mesure',
+        'Aménagements intérieurs',
+        'Meubles intégrés',
+      ],
+      en: [
+        'Doors and windows',
+        'Custom stairs',
+        'Interior developments',
+        'Built-in furniture',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quels types de bois utilisez-vous ?',
+        en: 'What types of wood do you use?',
+      },
+      {
+        fr: 'Proposez-vous des finitions spéciales ?',
+        en: 'Do you offer special finishes?',
+      },
+    ],
+  },
+  {
+    id: 'lighting',
+    title: {
+      fr: 'Éclairage et électricité',
+      en: 'Lighting and Electricity',
+    },
+    description: {
+      fr: "Installation d'éclairage LED et rénovation électrique. Confort et sécurité.",
+      en: 'LED lighting installation and electrical renovation. Comfort and safety.',
+    },
+    features: {
+      fr: [
+        'Éclairage LED',
+        'Rénovation électrique',
+        'Tableaux électriques',
+        'Prises et interrupteurs',
+      ],
+      en: [
+        'LED lighting',
+        'Electrical renovation',
+        'Electrical panels',
+        'Outlets and switches',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelle est la durée de garantie ?',
+        en: 'What is the warranty period?',
+      },
+      {
+        fr: 'Proposez-vous un plan de mise aux normes ?',
+        en: 'Do you offer a compliance plan?',
+      },
+    ],
+  },
+  {
+    id: 'roofing',
+    title: {
+      fr: 'Toiture',
+      en: 'Roofing',
+    },
+    description: {
+      fr: 'Rénovation et installation de toitures avec matériaux de qualité. Étanchéité garantie.',
+      en: 'Roof renovation and installation with quality materials. Waterproofing guaranteed.',
+    },
+    features: {
+      fr: [
+        'Rénovation de toiture',
+        'Ardoise naturelle',
+        'Étanchéité',
+        'Isolation de toiture',
+      ],
+      en: [
+        'Roof renovation',
+        'Natural slate',
+        'Waterproofing',
+        'Roof insulation',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelle est la durée de vie d\'une toiture ?',
+        en: 'What is the lifespan of a roof?',
+      },
+      {
+        fr: 'Quels matériaux proposez-vous ?',
+        en: 'What materials do you offer?',
+      },
+    ],
+  },
+  {
+    id: 'facade',
+    title: {
+      fr: 'Façade',
+      en: 'Facade',
+    },
+    description: {
+      fr: 'Rénovation de façade avec isolation thermique. Application de chaux naturelle et peinture silicatée.',
+      en: 'Facade renovation with thermal insulation. Application of natural lime and silicate paint.',
+    },
+    features: {
+      fr: [
+        'Isolation thermique',
+        'Chaux naturelle',
+        'Peinture silicatée',
+        'Nettoyage haute pression',
+      ],
+      en: [
+        'Thermal insulation',
+        'Natural lime',
+        'Silicate paint',
+        'High-pressure cleaning',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelle est la durée de vie de la chaux ?',
+        en: 'What is the lifespan of lime?',
+      },
+      {
+        fr: 'Quels sont les avantages de la peinture silicatée ?',
+        en: 'What are the advantages of silicate paint?',
+      },
+    ],
+  },
+  {
+    id: 'terrace',
+    title: {
+      fr: 'Terrasse',
+      en: 'Terrace',
+    },
+    description: {
+      fr: 'Aménagement de terrasses avec matériaux durables. Dalles en pierre naturelle et jardin vertical.',
+      en: 'Terrace development with durable materials. Natural stone slabs and vertical garden.',
+    },
+    features: {
+      fr: [
+        'Dalles en pierre naturelle',
+        'Jardin vertical',
+        'Éclairage extérieur',
+        'Mobilier de jardin',
+      ],
+      en: [
+        'Natural stone slabs',
+        'Vertical garden',
+        'Outdoor lighting',
+        'Garden furniture',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quels types de matériaux proposez-vous ?',
+        en: 'What types of materials do you offer?',
+      },
+      {
+        fr: 'Quelle est la durée d\'installation ?',
+        en: 'What is the installation duration?',
+      },
+    ],
+  },
+  {
+    id: 'basement',
+    title: {
+      fr: 'Cave',
+      en: 'Cellar',
+    },
+    description: {
+      fr: 'Aménagement de caves avec mur en pierre apparente. Éclairage d\'ambiance et rangements.',
+      en: 'Cellar development with exposed stone walls. Ambient lighting and storage.',
+    },
+    features: {
+      fr: [
+        'Mur en pierre apparente',
+        'Éclairage d\'ambiance',
+        'Rangements intégrés',
+        'Sol résine',
+      ],
+      en: [
+        'Exposed stone walls',
+        'Ambient lighting',
+        'Integrated storage',
+        'Resin flooring',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Comment traitez-vous les murs en pierre ?',
+        en: 'How do you treat stone walls?',
+      },
+      {
+        fr: 'Quelle est la durée d\'aménagement ?',
+        en: 'What is the development duration?',
+      },
+    ],
+  },
+  {
+    id: 'garage',
+    title: {
+      fr: 'Garage',
+      en: 'Garage',
+    },
+    description: {
+      fr: 'Aménagement de garages avec rangements intégrés et sol résine. Espace optimisé.',
+      en: 'Garage development with integrated storage and resin flooring. Optimized space.',
+    },
+    features: {
+      fr: [
+        'Rangements intégrés',
+        'Sol résine',
+        'Éclairage LED',
+        'Porte de garage',
+      ],
+      en: [
+        'Integrated storage',
+        'Resin flooring',
+        'LED lighting',
+        'Garage door',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelle est la durée de vie du sol résine ?',
+        en: 'What is the lifespan of resin flooring?',
+      },
+      {
+        fr: 'Quels sont les avantages des rangements intégrés ?',
+        en: 'What are the advantages of integrated storage?',
+      },
+    ],
+  },
+  {
+    id: 'attic',
+    title: {
+      fr: 'Combles',
+      en: 'Attic',
+    },
+    description: {
+      fr: 'Aménagement de combles habitables avec isolation thermique. Espace supplémentaire.',
+      en: 'Attic development with thermal insulation. Additional space.',
+    },
+    features: {
+      fr: [
+        'Isolation thermique',
+        'Fenêtres de toit',
+        'Aménagement sur mesure',
+        'Éclairage',
+      ],
+      en: [
+        'Thermal insulation',
+        'Roof windows',
+        'Custom development',
+        'Lighting',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelle est la hauteur minimale requise ?',
+        en: 'What is the minimum required height?',
+      },
+      {
+        fr: 'Quels types d\'isolation proposez-vous ?',
+        en: 'What types of insulation do you offer?',
+      },
+    ],
+  },
+  {
+    id: 'waterproofing',
+    title: {
+      fr: 'Étanchéité',
+      en: 'Waterproofing',
+    },
+    description: {
+      fr: 'Rénovation d\'étanchéité avec matériaux durables. Garantie 10 ans.',
+      en: 'Waterproofing renovation with durable materials. 10-year guarantee.',
+    },
+    features: {
+      fr: [
+        'Étanchéité toiture',
+        'Étanchéité terrasse',
+        'Étanchéité sous-sol',
+        'Garantie 10 ans',
+      ],
+      en: [
+        'Roof waterproofing',
+        'Terrace waterproofing',
+        'Basement waterproofing',
+        '10-year guarantee',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelle est la durée de garantie ?',
+        en: 'What is the guarantee duration?',
+      },
+      {
+        fr: 'Quels matériaux utilisez-vous ?',
+        en: 'What materials do you use?',
+      },
+    ],
+  },
+  {
+    id: 'safety',
+    title: {
+      fr: 'Sécurité',
+      en: 'Safety',
+    },
+    description: {
+      fr: 'Installation de serrures de sécurité et ferronnerie. Protection de votre bien.',
+      en: 'Installation of security locks and ironwork. Protection of your property.',
+    },
+    features: {
+      fr: [
+        'Serrures de sécurité',
+        'Ferronnerie',
+        'Vitrages sécurisés',
+        'Alarmes',
+      ],
+      en: [
+        'Security locks',
+        'Ironwork',
+        'Security glazing',
+        'Alarms',
+      ],
+    },
+    faqs: [
+      {
+        fr: 'Quelles sont les normes de sécurité ?',
+        en: 'What are the safety standards?',
+      },
+      {
+        fr: 'Quels types de serrures proposez-vous ?',
+        en: 'What types of locks do you offer?',
       },
     ],
   },
