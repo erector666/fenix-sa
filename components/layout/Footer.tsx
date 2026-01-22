@@ -1,11 +1,13 @@
 import Link from 'next/link'
-import { Phone, Mail, MapPin, Clock } from 'lucide-react'
+import { Phone, Mail, MapPin, Clock, Instagram } from 'lucide-react'
 
 const translations = {
   fr: {
     services: 'Services',
     contact: 'Contact',
     legal: 'Mentions Légales',
+    follow: 'Suivez-nous',
+    instagram: 'Suivez-nous sur Instagram',
     address: '1004 Lausanne, Chemin des Retraites 3',
     hours: 'Lun-Ven: 8h-18h',
     copyright: 'Tous droits réservés',
@@ -14,6 +16,8 @@ const translations = {
     services: 'Services',
     contact: 'Contact',
     legal: 'Legal Notice',
+    follow: 'Follow Us',
+    instagram: 'Follow us on Instagram',
     address: '1004 Lausanne, Chemin des Retraites 3',
     hours: 'Mon-Fri: 8am-6pm',
     copyright: 'All rights reserved',
@@ -65,9 +69,23 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Legal */}
+          {/* Follow Us & Legal */}
           <div>
-            <h4 className="text-white font-semibold mb-4">Légal</h4>
+            <h4 className="text-white font-semibold mb-4">Suivez-nous</h4>
+            <ul className="space-y-2 text-sm">
+              <li>
+                <a 
+                  href="https://www.instagram.com/fenixplussa" 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="flex items-center gap-2 hover:text-white transition-colors"
+                >
+                  <Instagram size={16} />
+                  <span>Suivez-nous sur Instagram</span>
+                </a>
+              </li>
+            </ul>
+            <h4 className="text-white font-semibold mb-4 mt-6">Légal</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/legal" className="hover:text-white transition-colors">Mentions Légales</Link></li>
               <li><Link href="/legal" className="hover:text-white transition-colors">Politique de Confidentialité</Link></li>
