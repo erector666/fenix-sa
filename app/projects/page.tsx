@@ -5,8 +5,8 @@ import { projects } from '@/data/projects'
 import { ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Nos Réalisations - FENIX PLUS SA',
-  description: 'Découvrez nos projets de rénovation et construction réalisés dans le canton de Vaud.',
+  title: 'Nos RÃ©alisations - FENIX PLUS SA',
+  description: 'DÃ©couvrez nos projets de rÃ©novation et construction rÃ©alisÃ©s dans le canton de Vaud.',
 }
 
 export default function ProjectsPage() {
@@ -15,9 +15,9 @@ export default function ProjectsPage() {
       {/* Hero Section */}
       <section className="bg-slate-900 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Nos Réalisations</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-6">Nos RÃ©alisations</h1>
           <p className="text-xl text-slate-300 max-w-2xl">
-            Découvrez quelques-uns de nos projets récents dans le canton de Vaud.
+            DÃ©couvrez quelques-uns de nos projets rÃ©cents dans le canton de Vaud.
           </p>
         </div>
       </section>
@@ -33,14 +33,11 @@ export default function ProjectsPage() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src={project.image}
+                    src={project.images[0]}
                     alt={project.title.fr}
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-300"
                   />
-                  <div className="absolute top-4 left-4 bg-emerald-500 text-white px-3 py-1 rounded-full text-sm font-medium">
-                    {project.category.fr}
-                  </div>
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-bold text-slate-900 mb-2">{project.title.fr}</h3>
