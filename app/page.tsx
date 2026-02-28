@@ -15,7 +15,7 @@ const Hero = () => (
   <section className="relative bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white overflow-hidden">
     <div className="absolute inset-0">
       <Image
-        src="https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=1920&q=80"
+        src="https://images.unsplash.com/photo-4xLxkDeiJC0?w=1920&q=80"
         alt="Construction site"
         fill
         className="object-cover opacity-20"

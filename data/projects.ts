@@ -14,9 +14,9 @@ export const projects: Project[] = [
     location: 'Ouchy, Lausanne',
     services: ['Interior Renovation', 'Flooring', 'Painting'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
     ],
     beforeAfter: true,
   },
@@ -33,8 +33,8 @@ export const projects: Project[] = [
     location: 'Bourdonnette, Lausanne',
     services: ['Exterior Renovation', 'Walls and Plaster'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -50,9 +50,9 @@ export const projects: Project[] = [
     location: 'Bernex, Genève',
     services: ['Interior Renovation', 'Flooring', 'Painting'],
     images: [
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
     ],
   },
   {
@@ -68,8 +68,8 @@ export const projects: Project[] = [
     location: 'Renens, Vaud',
     services: ['Interior Renovation', 'Walls and Plaster', 'Flooring'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -85,8 +85,8 @@ export const projects: Project[] = [
     location: 'Vevey, Vaud',
     services: ['Exterior Renovation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -102,10 +102,10 @@ export const projects: Project[] = [
     location: 'Écublens, Vaud',
     services: ['Interior Renovation', 'Painting', 'Flooring'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -121,8 +121,8 @@ export const projects: Project[] = [
     location: 'Montreux, Vaud',
     services: ['Masonry', 'Exterior Renovation'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -138,8 +138,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Interior Renovation', 'Painting'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -155,8 +155,8 @@ export const projects: Project[] = [
     location: 'Bernex, Genève',
     services: ['Exterior Renovation', 'Woodworking'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -172,8 +172,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Interior Renovation', 'Masonry', 'Lighting'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -189,8 +189,8 @@ export const projects: Project[] = [
     location: 'Renens, Vaud',
     services: ['Interior Renovation', 'Flooring'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -206,8 +206,8 @@ export const projects: Project[] = [
     location: 'Vevey, Vaud',
     services: ['Exterior Renovation', 'Masonry'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -223,8 +223,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Exterior Renovation'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -240,8 +240,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Exterior Renovation', 'Insulation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -257,8 +257,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Metalwork'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -274,8 +274,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Woodworking', 'Interior Renovation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -291,8 +291,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Electrical'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -308,8 +308,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Plumbing'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -325,8 +325,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Painting'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -342,8 +342,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Tiling'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -359,8 +359,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Flooring'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -376,8 +376,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Masonry'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -393,8 +393,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Insulation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -410,8 +410,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Emergency'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -427,8 +427,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -444,8 +444,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -461,8 +461,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -478,8 +478,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -495,8 +495,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -512,8 +512,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -529,8 +529,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -546,8 +546,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -563,8 +563,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
     ],
   },
   {
@@ -580,8 +580,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -597,8 +597,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -614,8 +614,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -631,8 +631,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -648,8 +648,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -665,8 +665,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -682,8 +682,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -699,8 +699,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -716,8 +716,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -733,8 +733,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -750,8 +750,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -767,8 +767,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -784,8 +784,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -801,8 +801,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -818,8 +818,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -835,8 +835,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -852,8 +852,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -869,8 +869,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -886,8 +886,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -903,8 +903,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -920,8 +920,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -937,8 +937,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -954,8 +954,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -971,8 +971,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -988,8 +988,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -1005,8 +1005,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80',
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+      'https://images.unsplash.com/photo-on4nRkHfSIg?w=800&q=80',
+      'https://images.unsplash.com/photo-msaWCNgGxJ0?w=800&q=80',
     ],
   },
   {
@@ -1022,8 +1022,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912167-f556f1f39fdf?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-TltGIe9PK4Y?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
   {
@@ -1039,8 +1039,8 @@ export const projects: Project[] = [
     location: 'Lausanne, Vaud',
     services: ['Consultation'],
     images: [
-      'https://images.unsplash.com/photo-1556912173-3db996ea8c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
+      'https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80',
+      'https://images.unsplash.com/photo-7ypbeAK9t4E?w=800&q=80',
     ],
   },
 ]

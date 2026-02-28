@@ -12,7 +12,7 @@ export function Header() {
           <Link href="/" className="flex items-center gap-3">
             <div className="relative w-10 h-10">
               <Image
-                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=100&h=100&fit=crop"
+                src="https://images.unsplash.com/photo-pTrii5ylH5E?w=100&h=100&fit=crop"
                 alt="FENIX PLUS SA"
                 fill
                 className="rounded-lg object-cover"

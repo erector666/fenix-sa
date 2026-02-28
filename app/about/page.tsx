@@ -41,7 +41,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-80 rounded-xl overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=80"
+                src="https://images.unsplash.com/photo-YoQjyA44DL4?w=800&q=80"
                 alt="Notre équipe"
                 fill
                 className="object-cover"
